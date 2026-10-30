@@ -22,6 +22,9 @@
 ## Funcionalidades agregadas
 - Se ampliaron las herramientas de dibujo agregando soporte para trazar **rectángulos**. Se puede usar presionando la tecla r.
 - Se ampliaron las herramientas de dibujo agregando la opción para trazar **Triángulos**. Se puede usar presionando la tecla t.
+
+- Se agrego el color amarillo a la paleta de colores con la tecla 'A'
+- Se completo y amplio la herramienta de dibujo para trazar circulos, se activa con la tecla 'c'
 ## Cambios en el código
 - Se implementó la función que calcula el ancho y el alto a partir de dos clics. Asignado a la tecla **`r`**.
 - Se completó la funció del triángulo que calcula la distancia euclidiana entre dos clics para trazar los lados del triángulo. Asignado a la tecla **`t`**
