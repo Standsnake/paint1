@@ -40,14 +40,14 @@ def square(start, end):
 
 #modificacion total en la funcion def circle
 def circle(start, end):
-    radius : abs(end - start)
+    "Draw circle from start to end."
+    radius = abs(end - start)        
     up()
-    goto(start.x, start.y - radius)
+    goto(start.x, start.y - radius) 
     down()
     begin_fill()
     turtle.circle(radius)
     end_fill()
-
 
 def rectangle(start, end):
     """Draw rectangle from start to end."""
