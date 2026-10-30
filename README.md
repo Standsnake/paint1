@@ -2,7 +2,7 @@
 # Juego Paint
 
 > Este proyecto es una copia de Paint en Python utilizando las librerías `turtle` y `freegames`. Permite al usuario seleccionar diferentes tipos de formas geométricas y colores de trazo mediante el teclado para dibujar en una ventana interactiva mediante clics del raton.
-![Versión](2)
+> Versión:2
 
 ## Funcionalidades Base
 - **Puntos de referencia (Clics):** Un primer clic marca el punto de inicio (`start`) y un segundo clic en otra parte del lienzo ejecuta el trazo de la figura seleccionada.
